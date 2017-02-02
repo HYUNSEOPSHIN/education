@@ -14,12 +14,16 @@ public class Hellojava {
 		//지역저장소 내용 추가
 		System.out.println("Third Commit work~~~!");
 		System.out.println("Second Commit work!");
+
 		System.out.println("Third Commit work!");	
 		System.out.println("Fourth Commit work!");
 		System.out.println("Fifth Commit work!");
-		
-		//
 	 
+
+		System.out.println("Third Commit work!");
+		System.out.println("Fourth Commit work!");	
+ 
+
 				
 		
 		
