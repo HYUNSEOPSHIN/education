@@ -9,8 +9,9 @@ public class Hellojava {
 		
 		//branch 내용 추가 - 인코딩 
 		System.out.println("Second Commit work!");
-		System.out.println("Third Commit work!");		
-	 
+		System.out.println("Third Commit work!");
+		System.out.println("Fourth Commit work!");	
+ 
 				
 		
 		
