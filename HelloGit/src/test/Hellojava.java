@@ -7,7 +7,7 @@ public class Hellojava {
 		System.out.println("Hello Java~!");
 		System.out.println("First Commit work!");
 		
-		//branch 내용 추가
+		//branch 내용 추가 - 인코딩 
 		System.out.println("Second Commit work!");
 
 	}
